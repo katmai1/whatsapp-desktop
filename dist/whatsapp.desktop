@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=WhatsApp Desktop
+Comment=Cliente whatsapp
+Exec=./whatsapp-desktop
+Icon=icono.svg
+Terminal=false
+Categories=Internet
